@@ -4,7 +4,6 @@
 
 ### Production-ready multilingual AI customer support chatbot
 
-**English · Arabic · **
 
 </div>
 
