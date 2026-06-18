@@ -4,15 +4,7 @@
 
 ### Production-ready multilingual AI customer support chatbot
 
-**English · Arabic · Powered by Claude (Anthropic)**
-
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.137-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Claude](https://img.shields.io/badge/Claude-Sonnet%204.6-D4A017?logo=anthropic&logoColor=white)](https://anthropic.com)
-[![FAISS](https://img.shields.io/badge/FAISS-RAG-0064B0)](https://github.com/facebookresearch/faiss)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://docker.com)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+**English · Arabic · **
 
 </div>
 
