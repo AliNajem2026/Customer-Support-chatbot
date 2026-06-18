@@ -1,0 +1,42 @@
+ACCOUNT ACCESS & LOGIN
+======================
+If you cannot log in to your account, please follow these steps:
+1. Visit the login page and click "Forgot Password".
+2. Enter your registered email address to receive a reset link.
+3. Check your spam/junk folder if you do not receive the email within 5 minutes.
+4. If the account is locked after multiple failed attempts, wait 15 minutes and try again.
+5. For persistent issues, contact our support team with your username and registered email.
+
+To update your email address or username, go to Settings > Account > Edit Profile.
+Two-factor authentication (2FA) can be enabled under Settings > Security.
+
+BILLING & INVOICES
+==================
+You can view and download all invoices from your account dashboard under Billing > Invoices.
+Invoices are generated on the first day of each billing cycle.
+We accept Visa, Mastercard, American Express, and PayPal.
+To update your payment method, go to Billing > Payment Methods > Add New.
+If you were charged incorrectly, please submit a billing dispute within 30 days.
+Refunds are processed within 5–10 business days back to the original payment method.
+Annual plans offer a 20% discount compared to monthly plans.
+
+TECHNICAL SUPPORT
+=================
+If the application is not loading, try the following:
+1. Clear your browser cache and cookies.
+2. Try a different browser or device.
+3. Disable browser extensions that may block scripts.
+4. Check our status page at status.example.com for any ongoing incidents.
+
+For mobile app issues, ensure the app is updated to the latest version.
+To report a bug, go to Help > Report a Bug and provide as much detail as possible including screenshots.
+API rate limits are set to 1000 requests per hour per account. Contact us to request an increase.
+Data exports can be requested from Settings > Data > Export. Processing takes up to 24 hours.
+
+GENERAL INFORMATION
+===================
+Our support team is available Monday to Friday, 9 AM – 6 PM (UTC).
+Response times: Live chat — under 2 minutes; Email — within 24 hours.
+To cancel your subscription, go to Settings > Billing > Cancel Subscription.
+After cancellation, your data is retained for 30 days before permanent deletion.
+We are GDPR and CCPA compliant. View our full privacy policy at example.com/privacy.

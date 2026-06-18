@@ -1,0 +1,29 @@
+# Environment variables (never commit API keys)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# FAISS index (generated — run python -m backend.vectorstore.ingest to rebuild)
+vectorstore/faiss_index/
+backend/vectorstore/faiss_index/
+
+# Logs
+logs/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Claude Code internal
+.claude/
